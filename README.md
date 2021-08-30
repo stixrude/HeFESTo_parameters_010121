@@ -13,6 +13,8 @@ If you also use HeFESTo, please cite the following for the source of the HeFESTo
 
 (3) Stixrude, L. and C. Lithgow-Bertelloni, Thermodynamics of mantle minerals - II. Phase equilibria, Geophysical Journal International, 184, 1180-1213, 2011.
 
+Additional Notes.  Parameter files of the following species have not yet been discussed in the published literature and are not recommended as they are still being optimized: crst, enm, fapv, fea, fee, feg, flpv, hem, hepv, hlpv, hmag, hppv, lppv, mag, mgl, sil, wuls
+
 ***** WARNING *****  
 
 We grant the right to download and use this data, but do not grant the right to redistribute modified versions of the data in any form. If you have questions about the data, suggestions for improvements, or would like to ask for additional permissions or data files, please contact the authors:
