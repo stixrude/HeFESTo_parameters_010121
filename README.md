@@ -5,7 +5,7 @@ https://github.com/stixrude/HeFESToRepository
 
 If you use this parameter set, please cite:
 
-(1) Stixrude, L. and C. Lithgow-Bertelloni, Thermal expansivity, heat capacity and bulk modulus of the mantle, Geophysical Journal International, submitted, 2020.
+(1) Stixrude, L. and C. Lithgow-Bertelloni, Thermal expansivity, heat capacity and bulk modulus of the mantle, Geophysical Journal International, 228, 1119-1149, 2022.
 
 If you also use HeFESTo, please cite the following for the source of the HeFESTo code:
 
